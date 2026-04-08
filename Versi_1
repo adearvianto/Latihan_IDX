@@ -1,1 +1,31 @@
 
+Credit Risk Assessment
+
+    Created by Dimas Rafi Ramaharmuzi
+    This is my final project of VIX in ID/X Partners
+
+Business Understanding
+
+    Credit risk is known as the risk of borrower's failure to repay a loan
+    Consequently, assessing borrower's risk to repay the loan is a crucial thing in credit risk
+    We can use machine learning to automate the process
+
+Analytical Approach
+
+    Descriptive analysis
+    Graph analysis
+    Predictive modelling (classification)
+
+Data Requirement
+
+Dataset of customer loan from financial company
+Data Collection
+
+Dataset is collected by ID/X Partners from a company
+
+
+
+#Mount Drive
+from google.colab import drive
+drive.mount('/content/drive/')
+Mounted at /content/drive/
