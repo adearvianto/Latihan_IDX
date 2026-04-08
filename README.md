@@ -4,6 +4,7 @@
 **Membuat model untuk memprediksi credit risk**
 
 **Challenge**
+
 Sebagai Data Scientist di ID/X Partners, Anda akan terlibat dalam sebuah proyek dari perusahaan pemberi pinjaman
 (multifinance), dimana client Anda ingin meningkatkan keakuratan dalam menilai dan mengelola risiko kredit, sehingga dapat
 mengoptimalkan keputusan bisnis mereka dan mengurangi potensi kerugian.
@@ -121,11 +122,11 @@ oleh masing-masing peminjam.
 
 Setelah Anda menyelesaikan Challenge yang telah diberikan, Anda DIWAJIBKAN untuk membuat File Final Submission dalam format PPT
 dengan template berikut yang berisi:
-● Biodata Diri
-● Hasil Pengerjaan
-● Link Folder/File Hasil Pengerjaan
-● Link Github Hasil Pengerjaan
-● Link Video Presentasi Hasil Pekerjaan / Penjelasan Project yang Telah Anda Kerjaan
+- Biodata Diri
+- Hasil Pengerjaan
+- Link Folder/File Hasil Pengerjaan
+- Link Github Hasil Pengerjaan
+- Link Video Presentasi Hasil Pekerjaan / Penjelasan Project yang Telah Anda Kerjaan
 
 Video presentasi yang telah dibuat, harus Anda upload pada YouTube atau Google Drive untuk mendapatkan link yang akan dicantumkan pada file final submission nantinya.
 
