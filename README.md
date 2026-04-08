@@ -1,4 +1,4 @@
-**Project-Based Internship**
+**Project-Based Internship RAKAMIN and ID/X**
 
 **Prediction Model**
 **Membuat model untuk memprediksi credit risk**
